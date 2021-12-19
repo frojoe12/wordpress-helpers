@@ -2,3 +2,12 @@ Spam Comments:
 Settings/Discussion/Other comment settings
 -- Users must be registered and logged in to comment
 
+Post Revisions: limit these to prevent building up in database
+wp-config:
+define('WP_POST_REVISIONS',10);
+
+Expired transients:
+wp_options
+php-my-admin / adminer
+select all tables
+Table maintenance drop down: Optimise table
