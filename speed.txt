@@ -1,0 +1,4 @@
+Spam Comments:
+Settings/Discussion/Other comment settings
+-- Users must be registered and logged in to comment
+
